@@ -2,6 +2,11 @@
 Changelog for package clearpath_motor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.6.0 (2025-07-04)
+------------------
+* Added travel field to lynx feedback (`#79 <https://github.com/clearpathrobotics/clearpath_msgs/issues/79>`_)
+* Contributors: Roni Kreinin
+
 2.4.0 (2025-04-30)
 ------------------
 
