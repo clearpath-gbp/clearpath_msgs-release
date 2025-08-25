@@ -1,3 +1,29 @@
+## clearpath_msgs (jazzy) - 2.7.0-1
+
+The packages in the `clearpath_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release clearpath_msgs -r jazzy -t jazzy` on `Mon, 25 Aug 2025 22:12:36 -0000`
+
+These packages were released:
+- `clearpath_motor_msgs`
+- `clearpath_msgs`
+- `clearpath_platform_msgs`
+
+Version of package(s) in repository `clearpath_msgs`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_msgs.git
+- release repository: https://github.com/clearpath-gbp/clearpath_msgs-release.git
+- rosdistro version: `2.6.0-1`
+- old version: `2.6.0-1`
+- new version: `2.7.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_msgs (jazzy) - 2.6.0-1
 
 The packages in the `clearpath_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release clearpath_msgs -r jazzy -t jazzy` on `Fri, 04 Jul 2025 15:17:24 -0000`
